@@ -53,9 +53,3 @@ Metode yang digunakan pada project ini adalah 5 model supervised machine learnin
 - [Model Depoyment](https://heartdiseasepredictioning.streamlit.app/) 
 
 ---
-
-**Referensi tambahan:**
-- [Basic Writing and Syntax on Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-- [Contoh readme](https://github.com/fahmimnalfrzki/Swift-XRT-Automation)
-- [Another example](https://github.com/sanggusti/final_bangkit) (**Must read**)
-- [Additional reference](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/)
