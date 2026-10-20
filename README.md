@@ -1,5 +1,8 @@
 # Prediksi Penyakit Jantung
 
+## Model deployment (Streamlit app)
+https://heartdiseasepredictioning.streamlit.app/
+
 ## Repository Outline
 
 ```
