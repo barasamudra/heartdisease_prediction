@@ -7,9 +7,9 @@ https://heartdiseasepredictioning.streamlit.app/
 
 ```
 1. README.md - Penjelasan gambaran umum project
-2. P1M2_bara.ipynb - Notebook yang berisi EDA hingga pembuatan model
-3. P1M2_bara_inf.ipynb - Notebook yang berisi data inference
-4. heart.csv - Dataset yang digunakan
+2. heart_disease_prediction.ipynb - Notebook yang berisi EDA hingga pembuatan model
+3. inference.ipynb - Notebook yang berisi data inference
+4. data.csv - Dataset yang digunakan
 5. model_pipeline.pkl - File model untuk prediksi
 6. eda.py - File python berisi EDA (streamlit)
 7. prediction.py - File python untuk prediksi streamlit
