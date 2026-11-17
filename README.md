@@ -1,6 +1,5 @@
---------------------------------------------------
-🇬🇧 English
---------------------------------------------------
+# **English**
+
 
 # Heart Disease Prediction
 
@@ -69,9 +68,7 @@ This project evaluates 5 supervised machine learning models: K-Nearest Neighbors
 
 
 
---------------------------------------------------
-🇮🇩 Indonesia
---------------------------------------------------
+# **Indonesia**
 
 # Prediksi Penyakit Jantung
 
